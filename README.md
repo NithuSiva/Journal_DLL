@@ -1,7 +1,7 @@
 ### Journal du cours de Développement de logiciels libres.
 
 ***
-#### __Groupe__ : Ben Ammar Iliass ,Sivakanthan Nithusan.   
+#### __Groupe__ : Ben Ammar Iliass, Sivakanthan Nithusan.   
 
 #### 📅 __01/02/2021__ : 
 
