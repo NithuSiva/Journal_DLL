@@ -24,7 +24,7 @@ Nous avons obtenu une réponse dans les heures qui suivent, l'auteur est d'accor
 
 Nous avons commencé par installer Android Studio pour pouvoir émuler Newpipe sur android et travailler dessus.
 Afin d'ajouter une fonctionnalité demandé, nous avons essayé de chercher dans les fichiers de NewPipe la fonctionnalité permettant de supprimer des videos ou son telecharger.
-Mais il y avait trop de dossier et fichier, nous avons abondonner cette methode et avons demandé de l'aide au prof.
+Mais il y avait trop de dossier et fichier, nous avons abondonné cette methode et avons demandé de l'aide au prof.
 
 ***
 #### 📅 __15/03/2021__ : 
