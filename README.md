@@ -40,6 +40,29 @@ Nous avons réussi a ajouter un popup qui demande si l'on est sur de vouloir tou
 
 Nous avons donc demandé de l'aide au prof.
 
+***
+#### 📅 __22/03/2021__ : 
+
+Le prof nous a dit de traduire les xml dans les langues que l'ont métrise, on a donc ajouter le francais et l'anglais.
+
+***
+#### 📅 __29/03/2021__ : 
+
+Nous avons rebase notre travail et demandé si cela était correct.
+
+***
+#### 📅 __10/04/2021__ : 
+
+Nous avons accépter leurs change request qui conssister a reformuler nos phrases.
+
+***
+#### 📅 __15/04/2021__ : 
+
+Nous avons demander aux collaborateurs que doit on faire pour que notre travail soit merge, ils nous ont répondu que l'ont devait juste attendre.
+
+
+
+
 
 
 
